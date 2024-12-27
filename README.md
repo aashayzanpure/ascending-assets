@@ -1,6 +1,8 @@
 # ascending-assets
 
-YOU NEED JUPYTER NOTEBOOK TO ACCESS THIS PYTHON NOTEBOOK!<br/>
+Project Link: https://drive.google.com/drive/folders/11OJZjfd7_jxqhOwSqrS-bsgP9vTr6wKM?usp=sharing
+
+YOU NEED TO ACCESS THE ABOVE PYTHON NOTEBOOK BY REQUESTING!<br/>
 
 This project uses different trading strategies for multiple stocks, commodities and indices to maximize the Sharpe ratio and subsequently, the profit over a given period (2014-2019).<br/>
 
